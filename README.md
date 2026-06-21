@@ -1,5 +1,7 @@
 # Bedlog — Support
 
+🌐 **Website:** https://blau-ton.github.io/bedlog/ · 🔒 [Privacy Policy](https://blau-ton.github.io/bedlog/privacy.html) · 📧 blau.ton@icloud.com
+
 **Bedlog** is a private, local-first journal for your dating life: a profile per
 person, a world map of where your contacts are from, insights, and a
 sexual-health tracker with clear educational content. All your data stays on
